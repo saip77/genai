@@ -8,15 +8,15 @@
 ## 🧭 Part 1: LLM Foundations & Prompt Engineering (Days 1–25)
 
 ### 🔍 LLM Core Concepts
-1. What is a Large Language Model (LLM)?
-2. Transformer Architecture (Conceptual Overview)
-3. Attention Mechanism (Self-Attention Concept)
-4. Pretraining vs. Fine-Tuning
-5. Decoder-Only vs Encoder-Decoder Models
-6. Tokenization: BPE, WordPiece (Theory)
-7. Open vs Closed-Weight Models
-8. Model Families: GPT, Claude, Gemini, Mistral, LLaMA
-9. Context Windows & Limitations
+1.  What is a Large Language Model (LLM)?
+2.  Transformer Architecture (Conceptual Overview)
+3.  Attention Mechanism (Self-Attention Concept)
+4.  Pretraining vs. Fine-Tuning
+5.  Decoder-Only vs Encoder-Decoder Models
+6.  Tokenization: BPE, WordPiece (Theory)
+7.  Open vs Closed-Weight Models
+8.  Model Families: GPT, Claude, Gemini, Mistral, LLaMA
+9.  Context Windows & Limitations
 10. Token Limits & Truncation
 11. Token-Based Pricing Models
 12. Streamed vs Unstreamed Generation
