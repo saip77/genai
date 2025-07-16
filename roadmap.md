@@ -1,11 +1,11 @@
 # Roadmap for Gen AI and AI Agents
 
-## 📌 Day 0: Preliminaries
-- Overview of Python & AI Ecosystem (for vocabulary, APIs, no coding)
+## 📌  Preliminaries
+- Overview of Python & AI Ecosystem
 
 ---
 
-## 🧭 Part 1: LLM Foundations & Prompt Engineering (Days 1–25)
+## 🧭 Part 1: LLM Foundations & Prompt Engineering 
 
 ### 🔍 LLM Core Concepts
 1.  What is a Large Language Model (LLM)?
@@ -40,7 +40,7 @@
 
 ---
 
-## 🧩 Part 2: RAG, Embeddings & Vector DBs (Days 26–35)
+## 🧩 Part 2: RAG, Embeddings & Vector DBs 
 
 26. What are Embeddings? (Semantic Vectors)
 27. Vector Search vs Keyword Search
@@ -55,7 +55,7 @@
 
 ---
 
-## 🤖 Part 3: AI Agents (Days 36–65)
+## 🤖 Part 3: AI Agents 
 
 ### 🔁 Agent Loop & Planning
 36. What Are AI Agents?
@@ -101,7 +101,7 @@
 
 ---
 
-## 🧪 Optional Advanced Add-ons (Days 66–70)
+## 🧪 Optional Advanced Add-ons 
 
 66. Multimodal GenAI: GPT-4o, LLaVA, BLIP
 67. Mixture of Experts (MoE) Architectures
